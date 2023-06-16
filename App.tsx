@@ -4,7 +4,7 @@ import { StyleSheet, Text } from 'react-native';
 function App() {
   return (
     <Text style={styles.container}>
-      Hi
+      Hi Hello
     </Text>
   );
 }
